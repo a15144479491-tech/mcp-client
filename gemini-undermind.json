@@ -1,0 +1,15 @@
+{
+  "client_id": "https://a15144479491-tech.github.io/mcp-client/gemini-undermind.json",
+  "client_name": "Gemini Web",
+  "redirect_uris": [
+    "https://oauth-redirect.googleusercontent.com/r/user_bound_custom-mcp-30ee116845416fb2e7169119"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
